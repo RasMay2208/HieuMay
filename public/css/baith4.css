@@ -1,0 +1,124 @@
+.navbar-brand {
+    font-size: 1.8em;
+    color: black;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navbar-brand:hover {
+    color: black;
+}
+
+.nav-link {
+    margin-left: 30px;
+    margin-right: 30px;
+    color: black;
+    font-weight: 500;
+
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.form-control111 {
+    width: 80%;
+    height: 40px;
+    border-radius: 60px;
+    border: 2px solid red;
+    margin-right: -35px;
+    outline: none;
+}
+
+.btn0 {
+    height: 40px;
+    width: 40%;
+    border-radius: 60px;
+    border: 2px solid red;
+    background: red;
+    color: white;
+    font-weight: 700;
+    border: none;
+    outline: none;
+}
+
+.main h1 {
+    font-size: 4em;
+    font-weight: 700;
+
+}
+
+.btn001 {
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: red;
+    border-radius: 60px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.card-body:hover {
+    -webkit-box-shadow: -2px -1px 25px 4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px -1px 25px 4px rgba(0, 0, 0, 0.75);
+    box-shadow: -2px -1px 25px 4px rgba(0, 0, 0, 0.75);
+    transition: 0.5s;
+}
+
+.btn002 {
+    height: 50px;
+    width: 40%;
+    border-radius: 60px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+}
+
+.btn002:hover {
+    background-color: blue;
+}
+.btn003{
+    height: 45px;
+    width: 30%;
+    border-radius: 60px;
+    border:none;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+}
+.main5 h1{
+    font-family:'Lobster', cursive;
+}
+.main7{
+    background-color: black;
+    color: white;
+}
+.btn004{
+    height:45px;
+    width: 80px;
+    background-color: white;
+    margin-left: -10px;
+    border: white;
+    font-weight: 600;
+}
+.main7 input{
+    height: 45px;
+    width: 80%;
+    background: black;
+    border: 2px solid white;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.fab{
+    font-size: 2.5rem;
+    cursor: pointer;
+    padding-right: 5px;
+}
